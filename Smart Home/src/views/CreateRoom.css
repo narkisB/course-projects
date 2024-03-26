@@ -1,0 +1,42 @@
+.selectRoom {
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    width: 200px;
+    gap: 10px;
+}
+
+.createRoomInput {
+
+    background-color: rgb(193, 199, 202);
+    color: rgb(7, 4, 88);
+    font-weight: bold;
+    height: 27px;
+    font-size: medium;
+    border-radius: 0.2em;
+
+}
+
+::placeholder {
+    color: rgb(7, 4, 88);
+    font-weight: bold;
+    width: fit-content;
+}
+
+.createRoomButton {
+    background-color: rgb(193, 199, 202);
+    color: rgb(7, 4, 88);
+    font-weight: bold;
+    height: 27px;
+    font-size: medium;
+    margin-top: 30px;
+    margin-left: 100px;
+
+}
+
+.labelColor {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}

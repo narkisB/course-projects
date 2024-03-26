@@ -1,0 +1,8 @@
+.header {
+    color: blue;
+    text-Shadow: 1px 4px darkBlue;
+    font-Size: 50px;
+    text-Align: left;
+    display: inline;
+    height: 400px;
+}

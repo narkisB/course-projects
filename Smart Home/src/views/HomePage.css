@@ -1,0 +1,11 @@
+.createRoomButton {
+    background-color: blue;
+    border-Radius: 2em;
+    font-Weight: bold;
+    font-Size: 80px;
+    width: 100px;
+    color: darkblue;
+    margin-Left: 250px;
+    margin-Top: 100px;
+    border: none;
+}

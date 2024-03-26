@@ -1,0 +1,9 @@
+body {
+  background-image: url(./pictures/cover.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position: center;
+  background-color: white;
+  background-blend-mode: difference;
+}
